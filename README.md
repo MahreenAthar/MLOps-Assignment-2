@@ -1,10 +1,12 @@
 # MLOps-Assignment-2
 We are supposed to construct a CI/CD pipeline for machine learning system by utilizing the
 capabilities of the following tools
+
 ● Github and Github Actions
 ● Flask
 ● Jenkins
 ● Docker
+
 Following are the steps that were to be followed to complete the given case study. This application
 will be hosted on Github with multiple branches (equals to the # of the team members). We are
 required to use Github and Github actions for the CI phase. During the CI phase you are
